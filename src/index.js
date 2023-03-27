@@ -1,6 +1,6 @@
 function info(){
     const m = new Map();
-    m.set('name','ahjs3-1');
+    m.set('name','ahjs');
     m.set('version','1.0.0');
     return m;
 }
